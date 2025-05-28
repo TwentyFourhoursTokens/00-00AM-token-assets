@@ -1,0 +1,34 @@
+{
+  "name": "00:00AM",
+  "symbol": "0000AM",
+  "description": "1st Token Of 24:00 Tokens",
+  "seller_fee_basis_points": 0,
+  "image": "https://raw.githubusercontent.com/TwentyFourhoursTokens/00-00AM-token-assets/main/0000am%20-%20200.png",
+  "decimals": 6,
+  "external_url": "https://github.com/TwentyFourhoursTokens",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/TwentyFourhoursTokens/00-00AM-token-assets/main/0000am%20-%20200.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "9CZxoEbJRQCUdhixPNGSFLMWaJNEL3vE2VRcFsYTpump",
+        "share": 100
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Community",
+      "value": "https://t.me/TwentyFourhoursTokens"
+    }
+  ],
+  "collection": {
+    "name": "24:00 Tokens",
+    "family": "Time-Based Project"
+  }
+}
