@@ -1,0 +1,13 @@
+{
+  "name": "00:00AM",
+  "symbol": "0000AM",
+  "uri": "https://raw.githubusercontent.com/TwentyFourhoursTokens/00-00AM-token-assets/refs/heads/main/0000AM%20-%20Metadata.json",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "J3RYHiJZyGZsDDugWg7PabX8pjwcgoLehvkyd8PJSbu2",
+      "verified": true,
+      "share": 100
+    }
+  ]
+}
